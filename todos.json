@@ -1,0 +1,52 @@
+[
+  {
+    "ID": 482019,
+    "task": "Solve 2 LeetCode easy problems",
+    "status": "progress"
+  },
+  {
+    "ID": 917345,
+    "task": "Practice DSA: binary search",
+    "status": "progress"
+  },
+  {
+    "ID": 305881,
+    "task": "Build a small REST API endpoint",
+    "status": "none"
+  },
+  {
+    "ID": 664210,
+    "task": "Read 20 pages of a backend book",
+    "status": "none"
+  },
+  {
+    "ID": 138904,
+    "task": "30-minute strength workout",
+    "status": "done"
+  },
+  {
+    "ID": 720594,
+    "task": "Refactor existing JavaScript code",
+    "status": "progress"
+  },
+  {
+    "ID": 259118,
+    "task": "Practice DSA: hash maps",
+    "status": "none"
+  },
+  {
+    "ID": 846302,
+    "task": "Implement JWT authentication",
+    "status": "none"
+  },
+  {
+    "ID": 501779,
+    "task": "20-minute cardio session",
+    "status": "done"
+  },
+  {
+    "ID": 974631,
+    "task": "Read Node.js event loop internals",
+    "status": "none"
+  }
+]
