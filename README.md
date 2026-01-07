@@ -29,7 +29,6 @@ The repository contains the following files:
 ```
 Task-Tracker-CLI/
 ├── index.js           # Main application logic and CLI interface
-├── copy.js            # Utility functions or backup operations
 ├── todos.json         # JSON file for task data storage
 ├── package.json       # Project dependencies and metadata
 ├── package-lock.json  # Locked versions of dependencies
