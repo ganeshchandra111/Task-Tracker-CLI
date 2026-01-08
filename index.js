@@ -91,7 +91,7 @@ async function AddnewTodo() {
 
     //push the new task
     todos.push({
-      ID: `${Math.floor(Math.random() * 1000000)}`,
+      ID: Math.floor(Math.random() * 1000000),
       task: `${newTask}`,
       status: "none",
     });
