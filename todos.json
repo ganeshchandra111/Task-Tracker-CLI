@@ -48,10 +48,5 @@
     "ID": 974631,
     "task": "Read Node.js event loop internals",
     "status": "none"
-  },
-  {
-    "ID": 819995,
-    "task": "new new",
-    "status": "progress"
   }
 ]
